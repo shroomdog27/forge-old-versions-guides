@@ -8,15 +8,24 @@ The purpose of this guide is to explain how to read `debug.log` and `crash-repor
 **DO NOT POST ANY LOGS TO #tech-support IN THE FORGE DISCORD. YOU WILL NOT RECEIVE ANY HELP, IN ACCORDANCE WITH #rules 11. THESE GUIDES ARE THE ONLY HELP YOU WILL RECEIVE FROM THE FORGE DISCORD.**
 
 ## `debug.log`
+
 ### What is `debug.log`?
-`debug.log` is a file located in your `logs` folder in your Minecraft installation. It is one of the first files created when Forge starts and it has lots of useful debugging information. In some rare instances, crashes can occur before this file is created. In this case, use `!launcherlogs` in #bot-commands to see how to get the launcher logs. Ignore the part where it stays to upload to a paste site, we will not be able to provide help with reading logs. This is what this guide is for.
+`debug.log` is a file located in your `logs` folder in your Minecraft installation. It is one of the first files created when Forge starts and it has lots of useful debugging information.
+
 ### How do I read it?
 `debug.log` is just a text file. You can use any text editor to read it, but I would recommend [Notepad++](https://notepad-plus-plus.org/downloads/). It's a wonderful, lightweight text editor that makes it easy to scroll and read logs.
+
+### I don't have a `debug.log`.
+Are you running the vanilla Minecraft launcher?
+
+If yes, then in some rare instances, crashes can occur before this file is created. In this case, use `!launcherlogs` in #bot-commands to see how to get the launcher logs. Ignore the part where it stays to upload to a paste site, we will not be able to provide help with reading logs. This is what this guide is for.
+
+If no, then you'll need to figure out how to turn on `debug.log` creation in your launcher. This guide or the Forge Discord won't help you with this. You'll have to consult your launcher's documentation or help portals.
+
 ### It's open, now what?
 So this is the tricky part, as your issue could be anywhere in the log. If it's a crash, usually it's located near the bottom. In Minecraft, crashes are usually caused by an error that prints what is called a stack trace.
 
 ### What's a stack trace?
-
 In simple terms, a stack trace is a list of function calls that the game was in the middle of executing when the problem occurred. Here's an example stack trace.
 ```
 org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
