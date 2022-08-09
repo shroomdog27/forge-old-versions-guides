@@ -17,7 +17,7 @@ It will automatically detect your Java version and correct the file association.
 
 If not Java version is detected, it will prompt you to download Java, which you should.
 
-The program edits your registry to fix the file association, which is necessary to make the registry edits.'
+The program edits your registry to fix the file association, which is necessary to make the registry edits.
 
 ### `javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target`?
 
