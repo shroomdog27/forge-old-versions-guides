@@ -16,7 +16,7 @@ Select the Version dropdown option for the Java version you wish to download.
 - 1.17 needs Java 16
 - 1.16.5 and older need Java 8
 
-### `Exception message: net.minecraft.util.ResourceLocationException: Non [a-z0-9/._-] character in path of location`?
+### `net.minecraft.util.ResourceLocationException: Non [a-z0-9/._-] character in path of location`?
 
 Is your Operating System or Minecraft set to Turkish? If so, the [turkish ı](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/) can cause issues in the game's registry. 
 
