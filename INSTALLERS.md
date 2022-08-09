@@ -1,10 +1,10 @@
 # Common Issues with the Installer
 ## Prelude
-Remember, this guide is the only help you will receive.
+Remember, these guides are the only help you will receive.
 
 In addition, the **only** place to download official Forge installers is at https://files.minecraftforge.net/net/minecraftforge/forge/
 
-**DO NOT POST ANY LOGS TO #tech-support IN THE FORGE DISCORD. YOU WILL NOT RECEIVE ANY HELP, IN ACCORDANCE WITH #rules 11. THIS GUIDE IS THE ONLY HELP YOU WILL RECEIVE.**
+**DO NOT POST ANY LOGS TO #tech-support IN THE FORGE DISCORD. YOU WILL NOT RECEIVE ANY HELP, IN ACCORDANCE WITH #rules 11. THESE GUIDES ARE THE ONLY HELP YOU WILL RECEIVE.**
 
 ## Common Issues
 ### Whenever I open the installer, it just redownloads or it opens with an archive manager. 
