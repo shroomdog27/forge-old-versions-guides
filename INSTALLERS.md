@@ -1,6 +1,6 @@
 # Common Issues with the Installer
 ## Prelude
-Remember, these guides are the only help you will receive.
+Remember, these guides are the only help you will receive from the Forge Discord.
 
 In addition, the **only** place to download official Forge installers is at https://files.minecraftforge.net/net/minecraftforge/forge/
 

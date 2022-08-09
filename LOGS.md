@@ -1,7 +1,7 @@
 
 # Common Issues with the Game
 ## Prelude
-Remember, these guides are the only help you will receive.
+Remember, these guides are the only help you will receive from the Forge Discord.
 
 The purpose of this guide is to explain how to read `debug.log` and `crash-reports` in order to help you debug what went wrong.
 

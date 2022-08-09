@@ -1,6 +1,6 @@
 # Common Issues with the Game
 ## Prelude
-Remember, these guides are the only help you will receive.
+Remember, these guides are the only help you will receive from the Forge Discord.
 
 **DO NOT POST ANY LOGS TO #tech-support IN THE FORGE DISCORD. YOU WILL NOT RECEIVE ANY HELP, IN ACCORDANCE WITH #rules 11. THESE GUIDES ARE THE ONLY HELP YOU WILL RECEIVE FROM THE FORGE DISCORD.**
 
