@@ -2,7 +2,7 @@
 ## Prelude
 Remember, these guides are the only help you will receive.
 
-**DO NOT POST ANY LOGS TO #tech-support IN THE FORGE DISCORD. YOU WILL NOT RECEIVE ANY HELP, IN ACCORDANCE WITH #rules 11. THESE GUIDES ARE THE ONLY HELP YOU WILL RECEIVE.**
+**DO NOT POST ANY LOGS TO #tech-support IN THE FORGE DISCORD. YOU WILL NOT RECEIVE ANY HELP, IN ACCORDANCE WITH #rules 11. THESE GUIDES ARE THE ONLY HELP YOU WILL RECEIVE FROM THE FORGE DISCORD.**
 
 ## Common Issues
 ### `Caused by: java.lang.ClassCastException: class jdk.internal.loader.ClassLoaders$AppClassLoader cannot be cast to class java.net.URLClassLoader (jdk.internal.loader.ClassLoaders$AppClassLoader and java.net.URLClassLoader are in module java.base of loader 'bootstrap')`?

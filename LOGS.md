@@ -5,7 +5,7 @@ Remember, these guides are the only help you will receive.
 
 The purpose of this guide is to explain how to read `debug.log` and `crash-reports` in order to help you debug what went wrong.
 
-**DO NOT POST ANY LOGS TO #tech-support IN THE FORGE DISCORD. YOU WILL NOT RECEIVE ANY HELP, IN ACCORDANCE WITH #rules 11. THESE GUIDES ARE THE ONLY HELP YOU WILL RECEIVE.**
+**DO NOT POST ANY LOGS TO #tech-support IN THE FORGE DISCORD. YOU WILL NOT RECEIVE ANY HELP, IN ACCORDANCE WITH #rules 11. THESE GUIDES ARE THE ONLY HELP YOU WILL RECEIVE FROM THE FORGE DISCORD.**
 
 ## `debug.log`
 ### What is `debug.log`?
