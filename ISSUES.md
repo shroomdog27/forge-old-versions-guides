@@ -18,7 +18,7 @@ Select the Version dropdown option for the Java version you wish to download.
 
 ### `Exception message: net.minecraft.util.ResourceLocationException: Non [a-z0-9/._-] character in path of location`?
 
-Is your Operating System or Minecraft set to Turkish? If so, the (turkish ı)[https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/] can cause issues in the game's registry. 
+Is your Operating System or Minecraft set to Turkish? If so, the [turkish ı](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/) can cause issues in the game's registry. 
 
 The solution is to either change the language on your Operating System, or add `-Duser.language=en -Duser.country=US` to your JVM launch arguments.
 
